@@ -1,0 +1,50 @@
+main {
+    width: 100vw;
+    height: 90vh;
+    margin-top: 65px;
+}
+
+.container {
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 30px 20px 0;
+}
+
+.header-main {
+    margin-bottom: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inf-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.inf-header > div {
+    margin-right: 20px;
+}
+
+.btn-inf {
+    padding: 30px;
+}
+
+.perfilMain-img {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.perfilMain-img img{
+    border-radius: 50%;
+}
+
+.section-main {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
